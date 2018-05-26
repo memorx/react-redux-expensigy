@@ -1,1 +1,1 @@
-# indecision-app-v2.0
+# react-redux-expensigy
